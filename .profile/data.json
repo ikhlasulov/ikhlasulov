@@ -1,0 +1,248 @@
+{
+ "key": "1457db75",
+ "stars": 8,
+ "contributions": 16,
+ "repos": 7,
+ "followers": 0,
+ "languages": [
+  [
+   "HTML",
+   3571251
+  ],
+  [
+   "C++",
+   422845
+  ],
+  [
+   "Python",
+   250302
+  ],
+  [
+   "Rust",
+   188287
+  ],
+  [
+   "CSS",
+   119879
+  ],
+  [
+   "JavaScript",
+   118999
+  ],
+  [
+   "CMake",
+   9282
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 26,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 1
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "open-rpm-web",
+   "url": "https://github.com/Ikhlasulov/open-rpm-web",
+   "text": "Open-source web app for Raven's Progressive Matrices IQ testing. Pure JavaScript, responsive design, and accurate scoring algorithm.",
+   "fork": false,
+   "stars": 8,
+   "language": "HTML",
+   "topics": [
+    "client-side",
+    "iq-test",
+    "no-dependencies",
+    "privacy-focused",
+    "psychometrics",
+    "vanilla-javascript",
+    "multilingual",
+    "open-source"
+   ]
+  },
+  {
+   "name": "ikhlasulov.github.io",
+   "url": "https://github.com/Ikhlasulov/ikhlasulov.github.io",
+   "text": "Personal site: Linux apps and open-source tools by ikhlasulov",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "predely",
+   "url": "https://github.com/Ikhlasulov/predely",
+   "text": "Статическая энциклопедия по книге «Пределы обоснования»",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "namaz",
+   "url": "https://github.com/Ikhlasulov/namaz",
+   "text": "Namaz — prayer times, Qibla and Hijri calendar for Linux (Rust + Qt 6)",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "athan",
+    "flatpak",
+    "hijri",
+    "islam",
+    "kde",
+    "namaz",
+    "prayer-times",
+    "qibla",
+    "qt6",
+    "rust"
+   ]
+  },
+  {
+   "name": "vigenere64",
+   "url": "https://github.com/Ikhlasulov/vigenere64",
+   "text": "Browser-based tool implementing a custom Vigenère cipher (ROT1, key \"islam\") with deterministic preprocessing rules, plus a Base64 encoder. Vanilla JS, no dependencies, runs entirely client-side.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "base64",
+    "client-side",
+    "cryptography",
+    "encryption",
+    "vanilla-javascript",
+    "vigenere-cipher"
+   ]
+  },
+  {
+   "name": "openrpm",
+   "url": "https://github.com/Ikhlasulov/openrpm",
+   "text": "A modern, native GTK4/Libadwaita implementation of Raven's Progressive Matrices IQ test with adaptive scoring, age-adjusted results, and multilingual support.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "flatpak",
+    "gnome",
+    "gtk4",
+    "iq-test",
+    "libadwaita",
+    "linux",
+    "psychometrics",
+    "python"
+   ]
+  },
+  {
+   "name": "Ikhlasulov",
+   "url": "https://github.com/Ikhlasulov/Ikhlasulov",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
