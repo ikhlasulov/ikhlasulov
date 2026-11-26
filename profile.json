@@ -4,10 +4,21 @@
   "seed": "#65558F",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
-  "motion": true,
+  "motion": false,
   "iconFill": true,
-  "order": ["hero", "about", "projects", "stack", "stats", "wave", "buttons"],
-  "hidden": ["socials", "streak"],
+  "order": [
+    "hero",
+    "about",
+    "projects",
+    "stack",
+    "stats",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials",
+    "streak"
+  ],
   "hero": {
     "greeting": "Hi, I’m / Привет, я",
     "name": "ikhlasulov",
@@ -15,16 +26,31 @@
     "typing": false,
     "avatarShape": "cookie12",
     "chips": [
-      { "icon": "terminal", "label": "Linux" },
-      { "icon": "code", "label": "Open source" }
+      {
+        "icon": "terminal",
+        "label": "Linux"
+      },
+      {
+        "icon": "code",
+        "label": "Open source"
+      }
     ]
   },
   "about": {
     "title": "Build for Linux / Делаю для Linux",
     "items": [
-      { "icon": "apps", "label": "Namaz · prayer times / времена намазов" },
-      { "icon": "favorite", "label": "OpenRPM · Raven’s matrices / тест Равена" },
-      { "icon": "language", "label": "English + Русский + Bahasa Indonesia" }
+      {
+        "icon": "apps",
+        "label": "Namaz · prayer times / времена намазов"
+      },
+      {
+        "icon": "favorite",
+        "label": "OpenRPM · Raven’s matrices / тест Равена"
+      },
+      {
+        "icon": "language",
+        "label": "English + Русский + Bahasa Indonesia"
+      }
     ]
   },
   "stack": {
@@ -33,24 +59,47 @@
       {
         "title": "Desktop / Десктоп",
         "items": [
-          { "icon": "terminal", "label": "Rust" },
-          { "icon": "code", "label": "Qt 6" },
-          { "icon": "computer", "label": "GTK 4" }
+          {
+            "icon": "terminal",
+            "label": "Rust"
+          },
+          {
+            "icon": "code",
+            "label": "Qt 6"
+          },
+          {
+            "icon": "computer",
+            "label": "GTK 4"
+          }
         ]
       },
       {
         "title": "Web & tooling / Веб и инструменты",
         "items": [
-          { "icon": "code", "label": "Python" },
-          { "icon": "language", "label": "HTML / CSS" },
-          { "icon": "terminal", "label": "GitHub Actions" }
+          {
+            "icon": "code",
+            "label": "Python"
+          },
+          {
+            "icon": "language",
+            "label": "HTML / CSS"
+          },
+          {
+            "icon": "terminal",
+            "label": "GitHub Actions"
+          }
         ]
       }
     ]
   },
   "projects": {
     "source": "manual",
-    "repos": ["namaz", "openrpm", "open-rpm-web", "predely"],
+    "repos": [
+      "namaz",
+      "openrpm",
+      "open-rpm-web",
+      "predely"
+    ],
     "overrides": {
       "namaz": {
         "text": "Prayer times, Qibla and Hijri calendar for Linux. / Времена намазов, кибла и календарь Хиджры.",
