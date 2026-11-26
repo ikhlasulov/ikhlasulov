@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "login": "ikhlasulov",
+  "seed": "#65558F",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": ["hero", "about", "projects", "stack", "stats", "wave", "buttons"],
+  "hidden": ["socials", "streak"],
+  "hero": {
+    "greeting": "Hi, I’m / Привет, я",
+    "name": "ikhlasulov",
+    "subtitle": "Linux apps with Rust, Qt and GTK.\nПриложения для Linux на Rust, Qt и GTK.",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": [
+      { "icon": "terminal", "label": "Linux" },
+      { "icon": "code", "label": "Open source" }
+    ]
+  },
+  "about": {
+    "title": "Build for Linux / Делаю для Linux",
+    "items": [
+      { "icon": "apps", "label": "Namaz · prayer times / времена намазов" },
+      { "icon": "favorite", "label": "OpenRPM · Raven’s matrices / тест Равена" },
+      { "icon": "language", "label": "English + Русский + Bahasa Indonesia" }
+    ]
+  },
+  "stack": {
+    "title": "Stack / Технологии",
+    "groups": [
+      {
+        "title": "Desktop / Десктоп",
+        "items": [
+          { "icon": "terminal", "label": "Rust" },
+          { "icon": "code", "label": "Qt 6" },
+          { "icon": "computer", "label": "GTK 4" }
+        ]
+      },
+      {
+        "title": "Web & tooling / Веб и инструменты",
+        "items": [
+          { "icon": "code", "label": "Python" },
+          { "icon": "language", "label": "HTML / CSS" },
+          { "icon": "terminal", "label": "GitHub Actions" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": ["namaz", "openrpm", "open-rpm-web", "predely"],
+    "overrides": {
+      "namaz": {
+        "text": "Prayer times, Qibla and Hijri calendar for Linux. / Времена намазов, кибла и календарь Хиджры.",
+        "icon": "apps",
+        "shape": "cookie12"
+      },
+      "openrpm": {
+        "text": "Raven’s Progressive Matrices in GTK4. / Тест Равена на GTK4.",
+        "icon": "favorite",
+        "shape": "gem"
+      },
+      "open-rpm-web": {
+        "text": "The same test in the browser. / Тот же тест в браузере.",
+        "icon": "computer",
+        "shape": "cookie12"
+      },
+      "predely": {
+        "text": "Static encyclopedia, in Russian. / Статическая энциклопедия на русском.",
+        "icon": "terminal",
+        "shape": "gem"
+      }
+    },
+    "empty": "Details in the repository / Подробнее в репозитории",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity / Активность",
+    "stars": "Stars / Звёзды",
+    "contributions": "Contributions / Вклад",
+    "repos": "Public repos / Репозитории",
+    "followers": "Followers / Подписчики",
+    "calendar": "Last 21 days / Последние 21 день",
+    "weekdays": "SMTWTFS",
+    "languages": "Public project languages / Языки открытых проектов",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current",
+    "longest": "Longest",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Website / Сайт",
+        "url": "https://ikhlasulov.github.io/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Repositories / Репозитории",
+        "url": "https://github.com/ikhlasulov?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
