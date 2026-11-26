@@ -1,7 +1,7 @@
 {
- "key": "55938983",
+ "key": "4b9d7a82",
  "stars": 8,
- "contributions": 20,
+ "contributions": 21,
  "repos": 7,
  "followers": 0,
  "languages": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 14,
+    "c": 15,
     "day": 26,
     "today": true
    },
@@ -147,7 +147,7 @@
  "all": [
   {
    "name": "open-rpm-web",
-   "url": "https://github.com/Ikhlasulov/open-rpm-web",
+   "url": "https://github.com/ikhlasulov/open-rpm-web",
    "text": "Open-source web app for Raven's Progressive Matrices IQ testing. Pure JavaScript, responsive design, and accurate scoring algorithm.",
    "fork": false,
    "stars": 8,
@@ -165,7 +165,7 @@
   },
   {
    "name": "ikhlasulov.github.io",
-   "url": "https://github.com/Ikhlasulov/ikhlasulov.github.io",
+   "url": "https://github.com/ikhlasulov/ikhlasulov.github.io",
    "text": "Personal site: Linux apps and open-source tools by ikhlasulov",
    "fork": false,
    "stars": 0,
@@ -174,7 +174,7 @@
   },
   {
    "name": "predely",
-   "url": "https://github.com/Ikhlasulov/predely",
+   "url": "https://github.com/ikhlasulov/predely",
    "text": "Статическая энциклопедия по книге «Пределы обоснования»",
    "fork": false,
    "stars": 0,
@@ -183,7 +183,7 @@
   },
   {
    "name": "namaz",
-   "url": "https://github.com/Ikhlasulov/namaz",
+   "url": "https://github.com/ikhlasulov/namaz",
    "text": "Namaz — prayer times, Qibla and Hijri calendar for Linux (Rust + Qt 6)",
    "fork": false,
    "stars": 0,
@@ -203,7 +203,7 @@
   },
   {
    "name": "vigenere64",
-   "url": "https://github.com/Ikhlasulov/vigenere64",
+   "url": "https://github.com/ikhlasulov/vigenere64",
    "text": "Browser-based tool implementing a custom Vigenère cipher (ROT1, key \"islam\") with deterministic preprocessing rules, plus a Base64 encoder. Vanilla JS, no dependencies, runs entirely client-side.",
    "fork": false,
    "stars": 0,
@@ -219,7 +219,7 @@
   },
   {
    "name": "openrpm",
-   "url": "https://github.com/Ikhlasulov/openrpm",
+   "url": "https://github.com/ikhlasulov/openrpm",
    "text": "A modern, native GTK4/Libadwaita implementation of Raven's Progressive Matrices IQ test with adaptive scoring, age-adjusted results, and multilingual support.",
    "fork": false,
    "stars": 0,
@@ -237,7 +237,7 @@
   },
   {
    "name": "Ikhlasulov",
-   "url": "https://github.com/Ikhlasulov/Ikhlasulov",
+   "url": "https://github.com/ikhlasulov/Ikhlasulov",
    "text": "",
    "fork": false,
    "stars": 0,
