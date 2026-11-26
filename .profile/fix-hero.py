@@ -78,4 +78,20 @@ def fix(name: str) -> bool:
 changed = False
 for svg in ("assets/hero-light.svg", "assets/hero-dark.svg"):
     changed = fix(svg) or changed
+
+# GitHub caches README images by URL, so publish the cards under a new name.
+for name in ("hero-light", "hero-dark"):
+    src = pathlib.Path(f"assets/{name}.svg")
+    if src.exists():
+        pathlib.Path(f"assets/{name}-v2.svg").write_bytes(src.read_bytes())
+        src.unlink()
+        changed = True
+
+readme = pathlib.Path("README.md")
+if readme.exists():
+    text = readme.read_text()
+    for name in ("hero-light", "hero-dark"):
+        text = text.replace(f"assets/{name}.svg", f"assets/{name}-v2.svg")
+    readme.write_text(text)
+
 print("updated" if changed else "already static")
