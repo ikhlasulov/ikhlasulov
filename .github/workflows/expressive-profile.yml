@@ -23,14 +23,17 @@ jobs:
         with:
           token: ${{ github.token }}
           commit-message: 'Update Material 3 Expressive profile cards'
-      - name: Keep the hero avatar frame static
+      - name: Polish the generated cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           python3 .profile/fix-hero.py
+          python3 .profile/fix-stats.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets README.md
           git diff --cached --quiet || {
-            git commit -m "chore: keep the hero avatar frame static"
+            git commit -m "chore: polish generated cards"
             git pull --rebase --quiet
             git push
           }
