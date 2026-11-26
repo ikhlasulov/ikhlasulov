@@ -1,7 +1,7 @@
 {
- "key": "4b9d7a82",
+ "key": "1e7062fe",
  "stars": 8,
- "contributions": 21,
+ "contributions": 25,
  "repos": 7,
  "followers": 0,
  "languages": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 15,
+    "c": 19,
     "day": 26,
     "today": true
    },
@@ -236,8 +236,8 @@
    ]
   },
   {
-   "name": "Ikhlasulov",
-   "url": "https://github.com/ikhlasulov/Ikhlasulov",
+   "name": "ikhlasulov",
+   "url": "https://github.com/ikhlasulov/ikhlasulov",
    "text": "",
    "fork": false,
    "stars": 0,
