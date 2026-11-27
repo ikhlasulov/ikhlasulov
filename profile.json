@@ -117,7 +117,7 @@
         "shape": "gem"
       },
       "openrpm-web": {
-        "text": "The same test in the browser. / Тот же тест в браузере.",
+        "text": "Raven’s Progressive Matrices in the browser. / Тест Равена в браузере.",
         "icon": "computer",
         "shape": "cookie12"
       }
