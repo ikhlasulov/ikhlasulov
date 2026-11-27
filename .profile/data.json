@@ -1,7 +1,7 @@
 {
- "key": "95ccb8cf",
+ "key": "2062eb19",
  "stars": 8,
- "contributions": 193,
+ "contributions": 194,
  "repos": 8,
  "followers": 0,
  "languages": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 21,
+    "c": 22,
     "day": 27,
     "today": true
    },
@@ -169,22 +169,32 @@
    ]
   },
   {
-   "name": "openrpm",
-   "url": "https://github.com/ikhlasulov/openrpm",
-   "text": "A modern, native GTK4/Libadwaita implementation of Raven's Progressive Matrices IQ test with adaptive scoring, age-adjusted results, and multilingual support.",
+   "name": "islamic-library",
+   "url": "https://github.com/ikhlasulov/islamic-library",
+   "text": "Offline Quran, hadith collections and prayer lessons for Linux. Rust core + Qt 6 Widgets.",
    "fork": false,
    "stars": 0,
-   "language": "Python",
+   "language": "C++",
    "topics": [
-    "flatpak",
-    "gnome",
-    "gtk4",
-    "iq-test",
-    "libadwaita",
+    "hadith",
+    "islam",
+    "kde",
     "linux",
-    "psychometrics",
-    "python"
+    "namaz",
+    "offline",
+    "qt6",
+    "quran",
+    "rust"
    ]
+  },
+  {
+   "name": "predely",
+   "url": "https://github.com/ikhlasulov/predely",
+   "text": "Статическая энциклопедия по книге «Пределы обоснования»",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
   },
   {
    "name": "openrpm-web",
@@ -203,15 +213,6 @@
     "multilingual",
     "open-source"
    ]
-  },
-  {
-   "name": "predely",
-   "url": "https://github.com/ikhlasulov/predely",
-   "text": "Статическая энциклопедия по книге «Пределы обоснования»",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
   }
  ],
  "all": [
