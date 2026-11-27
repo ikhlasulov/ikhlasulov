@@ -1,8 +1,8 @@
 {
- "key": "b67a47c6",
+ "key": "32c90add",
  "stars": 8,
- "contributions": 33,
- "repos": 7,
+ "contributions": 188,
+ "repos": 8,
  "followers": 0,
  "languages": [
   [
@@ -11,15 +11,15 @@
   ],
   [
    "C++",
-   422794
+   661449
   ],
   [
    "Python",
-   259060
+   259460
   ],
   [
    "Rust",
-   188284
+   210327
   ],
   [
    "CSS",
@@ -31,13 +31,13 @@
   ],
   [
    "CMake",
-   9267
+   15530
   ]
  ],
  "days": [
   [
    {
-    "c": 0,
+    "c": 42,
     "day": 8,
     "today": false
    },
@@ -52,17 +52,17 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 11,
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 12,
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 13,
     "today": false
    },
@@ -79,44 +79,44 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 16,
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 17,
     "today": false
    },
    {
-    "c": 0,
+    "c": 10,
     "day": 18,
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 19,
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 20,
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 21,
     "today": false
    }
   ],
   [
    {
-    "c": 0,
+    "c": 3,
     "day": 22,
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 23,
     "today": false
    },
@@ -126,22 +126,26 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 8,
     "day": 25,
     "today": false
    },
    {
-    "c": 27,
+    "c": 54,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 12,
+  "longest": 12
  },
  "pins": [
   {
@@ -227,6 +231,25 @@
     "vanilla-javascript",
     "multilingual",
     "open-source"
+   ]
+  },
+  {
+   "name": "islamic-library",
+   "url": "https://github.com/ikhlasulov/islamic-library",
+   "text": "Offline Quran, hadith collections and prayer lessons for Linux. Rust core + Qt 6 Widgets.",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "hadith",
+    "islam",
+    "kde",
+    "linux",
+    "namaz",
+    "offline",
+    "qt6",
+    "quran",
+    "rust"
    ]
   },
   {
