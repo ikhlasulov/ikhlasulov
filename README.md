@@ -1,12 +1,12 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark-v2.svg"><img src="assets/hero-light-v2.svg" width="100%" alt="Hi, I’m / Привет, я ikhlasulov"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I’m / Привет, я ikhlasulov"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Build for Linux / Делаю для Linux"></picture>
 
-<a href="https://github.com/ikhlasulov/namaz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-namaz-dark.svg"><img src="assets/project-namaz-light.svg" width="49%" alt="namaz"></picture></a>&nbsp;<a href="https://github.com/ikhlasulov/openrpm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openrpm-dark.svg"><img src="assets/project-openrpm-light.svg" width="49%" alt="openrpm"></picture></a>
+<a href="https://github.com/ikhlasulov/namaz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-namaz-dark.svg"><img src="assets/project-namaz-light.svg" width="49%" alt="namaz"></picture></a>&nbsp;<a href="https://github.com/ikhlasulov/islamic-library"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-islamic-library-dark.svg"><img src="assets/project-islamic-library-light.svg" width="49%" alt="islamic-library"></picture></a>
 
-<a href="https://github.com/ikhlasulov/open-rpm-web"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-open-rpm-web-dark.svg"><img src="assets/project-open-rpm-web-light.svg" width="49%" alt="open-rpm-web"></picture></a>&nbsp;<a href="https://github.com/ikhlasulov/predely"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-predely-dark.svg"><img src="assets/project-predely-light.svg" width="49%" alt="predely"></picture></a>
+<a href="https://github.com/ikhlasulov/predely"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-predely-dark.svg"><img src="assets/project-predely-light.svg" width="49%" alt="predely"></picture></a>&nbsp;<a href="https://github.com/ikhlasulov/openrpm-web"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openrpm-web-dark.svg"><img src="assets/project-openrpm-web-light.svg" width="49%" alt="openrpm-web"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Stack / Технологии"></picture>
 

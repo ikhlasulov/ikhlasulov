@@ -1,7 +1,7 @@
 {
- "key": "70a07f1e",
+ "key": "fc6b2887",
  "stars": 8,
- "contributions": 189,
+ "contributions": 192,
  "repos": 8,
  "followers": 0,
  "languages": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 17,
+    "c": 20,
     "day": 27,
     "today": true
    },
@@ -187,8 +187,8 @@
    ]
   },
   {
-   "name": "open-rpm-web",
-   "url": "https://github.com/ikhlasulov/open-rpm-web",
+   "name": "openrpm-web",
+   "url": "https://github.com/ikhlasulov/openrpm-web",
    "text": "Open-source web app for Raven's Progressive Matrices IQ testing. Pure JavaScript, responsive design, and accurate scoring algorithm.",
    "fork": false,
    "stars": 8,
@@ -216,8 +216,8 @@
  ],
  "all": [
   {
-   "name": "open-rpm-web",
-   "url": "https://github.com/ikhlasulov/open-rpm-web",
+   "name": "openrpm-web",
+   "url": "https://github.com/ikhlasulov/openrpm-web",
    "text": "Open-source web app for Raven's Progressive Matrices IQ testing. Pure JavaScript, responsive design, and accurate scoring algorithm.",
    "fork": false,
    "stars": 8,
