@@ -8,13 +8,15 @@ personal token and without access to private repositories.
 The generator writes `README.md` and the light/dark SVG cards in `assets/`;
 real public GitHub data supplies the statistics.
 
-Two small post-processing steps run after the generator:
+Three small post-processing steps run after the generator:
 
 - `fix-hero.py` rebuilds the avatar cookie rim from the avatar cut-out, freezes
   it and republishes the hero cards under a `-v2` name so GitHub refreshes its
   image cache;
 - `fix-stats.py` recomputes the language shares without HTML/CSS/JavaScript
-  and redraws the bar and legend.
+  and redraws the bar and legend;
+- `fix-cache.py` appends a content hash to every card file name and rewrites
+  the README links, so a changed card always gets a fresh URL.
 
 Google Sans Flex / Roboto Flex fonts: SIL OFL 1.1. Material Symbols:
 Apache-2.0. Icons in `.profile/icons.json` are copied from Google's Material
