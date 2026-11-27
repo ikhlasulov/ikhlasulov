@@ -22,7 +22,7 @@
   "hero": {
     "greeting": "Hi, I’m / Привет, я",
     "name": "ikhlasulov",
-    "subtitle": "Linux apps with Rust, Qt and GTK.\nПриложения для Linux на Rust, Qt и GTK.",
+    "subtitle": "Linux apps with Rust, Qt and GTK. / Приложения для Linux на Rust, Qt и GTK.",
     "typing": false,
     "avatarShape": "cookie12",
     "chips": [
@@ -96,9 +96,9 @@
     "source": "manual",
     "repos": [
       "namaz",
-      "openrpm",
-      "open-rpm-web",
-      "predely"
+      "islamic-library",
+      "predely",
+      "openrpm-web"
     ],
     "overrides": {
       "namaz": {
@@ -106,20 +106,20 @@
         "icon": "apps",
         "shape": "cookie12"
       },
-      "openrpm": {
-        "text": "Raven’s Progressive Matrices in GTK4. / Тест Равена на GTK4.",
-        "icon": "favorite",
+      "islamic-library": {
+        "text": "Offline Quran, hadiths and prayer lessons for Linux. / Офлайн Коран, хадисы и уроки намаза.",
+        "icon": "book_2",
         "shape": "gem"
-      },
-      "open-rpm-web": {
-        "text": "The same test in the browser. / Тот же тест в браузере.",
-        "icon": "computer",
-        "shape": "cookie12"
       },
       "predely": {
         "text": "Static encyclopedia, in Russian. / Статическая энциклопедия на русском.",
         "icon": "terminal",
         "shape": "gem"
+      },
+      "openrpm-web": {
+        "text": "The same test in the browser. / Тот же тест в браузере.",
+        "icon": "computer",
+        "shape": "cookie12"
       }
     },
     "empty": "Details in the repository / Подробнее в репозитории",
